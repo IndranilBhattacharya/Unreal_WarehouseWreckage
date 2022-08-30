@@ -1057,3 +1057,15 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.30-16.16.13:296][264]Cmd: MAP CHECKDEP NOCLEARLOG
 [2022.08.30-16.16.13:296][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
 [2022.08.30-16.16.13:296][264]LogFileHelpers: Loading map 'Minimal_Default' took 0.061
+[2022.08.30-16.21.45:871][ 46]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.08.30-16.21.45:980][ 46]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.08.30-16.21.46:082][ 46]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.08.30-16.21.46:083][ 46]LogTurnkeySupport: Display: Adding device menu item for LAPTOP-TEAF1PCC
+[2022.08.30-16.21.46:083][ 46]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/My Files/UnrealProjects/WarehouseWreckage/WarehouseWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/My Files/UnrealProjects/WarehouseWreckage/Intermediate/TurnkeyReport_1.log" -log="C:/My Files/UnrealProjects/WarehouseWreckage/Intermediate/TurnkeyLog_1.log" -project="C:/My Files/UnrealProjects/WarehouseWreckage/WarehouseWreckage.uproject"  -Device=Win64@LAPTOP-TEAF1PCC'
+[2022.08.30-16.21.46:083][ 46]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/My Files/UnrealProjects/WarehouseWreckage/WarehouseWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/My Files/UnrealProjects/WarehouseWreckage/Intermediate/TurnkeyReport_1.log" -log="C:/My Files/UnrealProjects/WarehouseWreckage/Intermediate/TurnkeyLog_1.log" -project="C:/My Files/UnrealProjects/WarehouseWreckage/WarehouseWreckage.uproject"  -Device=Win64@LAPTOP-TEAF1PCC" -nocompile ]
+[2022.08.30-16.21.46:192][ 52]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.08.30-16.22.33:112][758]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.30-16.22.34:101][808]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2022.08.30-16.22.34:112][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.30-16.22.35:229][808]LogSlate: Took 0.003351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.30-16.26.00:146][132]LogSlate: Window 'Minimal_Default' being destroyed
